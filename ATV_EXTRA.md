@@ -1,5 +1,7 @@
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre Lucas Galvao
+## segundo fato sobre Lucas Galvao
 
-Sou apaixonado por Star Wars;
+
+No momento estou lendo novamente o mangá "berserk";
+

@@ -5,7 +5,7 @@
 Finalizei hoje no meu horario de almoco a serie "midnight mass";
 =======
 
-## Terceiro fato sobre <William>
+## Terceiro fato sobre William
 
 Um romantico incuravel;
 =======
@@ -19,7 +19,7 @@ Com muito foco e determinação me tornarei um Dev Front-End na Kenzie Academy;
 No momento estou lendo novamente o mangá "berserk";
 =======
 
-## Segundo fato sobre <William>
+## Segundo fato sobre William
 
 Amo tecnologia, animes e dança;
 =======
@@ -29,7 +29,7 @@ Amo tecnologia, animes e dança;
 Sou uma pessoa que gosta de resolver problemas;
 =======
 
-## Primeiro fato sobre <William>
+## Primeiro fato sobre William
 
 Uma pessoa tranquila, que busca a paz interior;
 =======

@@ -1,7 +1,5 @@
 # Entrega: Resolvendo Conflitos.
 
-## segundo fato sobre Lucas Galvao
+## terceiro fato sobre Lucas Galvao
 
-
-No momento estou lendo novamente o mangá "berserk";
-
+Finalizei hoje no meu horario de almoco a serie "midnight mass";

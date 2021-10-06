@@ -1,6 +1,10 @@
 # Entrega: Resolvendo Conflitos.
 
 
+## Segundo fato sobre Lucas Galvao
+No momento estou lendo novamente o mangá "berserk";
+=======
+
 ## Segundo fato sobre <William>
 
 Amo tecnologia, animes e dança;
@@ -22,6 +26,7 @@ Sou um amante de leitura;
 ## Primeiro fato sobre Lucas Galvao
 
 Sou fa de star wars;
+
 
 
 

@@ -1,6 +1,11 @@
 # Entrega: Resolvendo Conflitos.
 
 
+## Segundo fato sobre <William>
+
+Amo tecnologia, animes e dança;
+=======
+
 ## Segundo fato sobre Brunno Miguel
 
 Sou uma pessoa que gosta de resolver problemas;
@@ -17,6 +22,7 @@ Sou um amante de leitura;
 ## Primeiro fato sobre Lucas Galvao
 
 Sou fa de star wars;
+
 
 
 

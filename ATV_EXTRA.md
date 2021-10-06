@@ -1,6 +1,11 @@
 # Entrega: Resolvendo Conflitos.
 
 
+## Terceiro fato sobre Brunno Miguel
+
+Com muito foco e determinação me tornarei um Dev Front-End na Kenzie Academy;
+=======
+
 ## Segundo fato sobre Lucas Galvao
 No momento estou lendo novamente o mangá "berserk";
 =======
@@ -26,6 +31,7 @@ Sou um amante de leitura;
 ## Primeiro fato sobre Lucas Galvao
 
 Sou fa de star wars;
+
 
 
 
